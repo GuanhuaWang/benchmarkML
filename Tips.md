@@ -19,10 +19,10 @@ If your data is useful after swaping any columns (i.e. cannot be transformed as 
 
 between graph relication is more efficient than in-graph replication.
 
-In graph replication
+* In graph replication
 
 ![](in-graph.png)
 
-Between graph replication
+* Between graph replication
 
 ![](between-graph.png)
